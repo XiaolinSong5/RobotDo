@@ -6,4 +6,4 @@ Verify Search Results
     # Press Keys    //*[@id="gh-btn"]    Return
     # Press Keys  id:gh-btn  Return
     Press Keys  css:#gh-btn  Return
-    Page Should Contain    results for mobile
+    Page Should Contain    results for mobilee
